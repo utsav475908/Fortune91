@@ -32,6 +32,97 @@
 			remoteGlobalIDString = 451824C01D76D2F300552498;
 			remoteInfo = TabSwift;
 		};
+		451825371D76D30500552498 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 451825311D76D30300552498 /* SingleSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 451824FD1D76D30300552498;
+			remoteInfo = SingleSwift;
+		};
+		451825391D76D30500552498 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 451825311D76D30300552498 /* SingleSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 451825141D76D30300552498;
+			remoteInfo = SingleSwiftTests;
+		};
+		4518253B1D76D30500552498 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 451825311D76D30300552498 /* SingleSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 4518251F1D76D30300552498;
+			remoteInfo = SingleSwiftUITests;
+		};
+		451825811D76D31700552498 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4518257B1D76D31600552498 /* PageSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 451825461D76D31600552498;
+			remoteInfo = PageSwift;
+		};
+		451825831D76D31700552498 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4518257B1D76D31600552498 /* PageSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 4518255E1D76D31600552498;
+			remoteInfo = PageSwiftTests;
+		};
+		451825851D76D31700552498 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4518257B1D76D31600552498 /* PageSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 451825691D76D31600552498;
+			remoteInfo = PageSwiftUITests;
+		};
+		451825CC1D76D32900552498 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 451825C61D76D32800552498 /* MasterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 451825901D76D32700552498;
+			remoteInfo = MasterSwift;
+		};
+		451825CE1D76D32900552498 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 451825C61D76D32800552498 /* MasterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 451825A91D76D32700552498;
+			remoteInfo = MasterSwiftTests;
+		};
+		451825D01D76D32900552498 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 451825C61D76D32800552498 /* MasterSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 451825B41D76D32700552498;
+			remoteInfo = MasterSwiftUITests;
+		};
+		451826161D76D34E00552498 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 451826101D76D34D00552498 /* SpriteSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 451825DB1D76D34D00552498;
+			remoteInfo = SpriteSwift;
+		};
+		451826181D76D34E00552498 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 451826101D76D34D00552498 /* SpriteSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 451825F31D76D34D00552498;
+			remoteInfo = SpriteSwiftTests;
+		};
+		4518261A1D76D34E00552498 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 451826101D76D34D00552498 /* SpriteSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 451825FE1D76D34D00552498;
+			remoteInfo = SpriteSwiftUITests;
+		};
+		451826351D76D37000552498 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 451826311D76D36F00552498 /* Commons.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 451826261D76D36F00552498;
+			remoteInfo = Commons;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +140,11 @@
 		451824E21D76D2F300552498 /* TabSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TabSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		451824E61D76D2F300552498 /* TabSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabSwiftUITests.swift; sourceTree = "<group>"; };
 		451824E81D76D2F300552498 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		451825311D76D30300552498 /* SingleSwift.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SingleSwift.xcodeproj; path = SingleSwift/SingleSwift.xcodeproj; sourceTree = "<group>"; };
+		4518257B1D76D31600552498 /* PageSwift.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = PageSwift.xcodeproj; path = PageSwift/PageSwift.xcodeproj; sourceTree = "<group>"; };
+		451825C61D76D32800552498 /* MasterSwift.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = MasterSwift.xcodeproj; path = MasterSwift/MasterSwift.xcodeproj; sourceTree = "<group>"; };
+		451826101D76D34D00552498 /* SpriteSwift.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = SpriteSwift.xcodeproj; path = SpriteSwift/SpriteSwift.xcodeproj; sourceTree = "<group>"; };
+		451826311D76D36F00552498 /* Commons.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Commons.xcodeproj; path = Commons/Commons.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +175,11 @@
 		451824B81D76D2F300552498 = {
 			isa = PBXGroup;
 			children = (
+				451826311D76D36F00552498 /* Commons.xcodeproj */,
+				451826101D76D34D00552498 /* SpriteSwift.xcodeproj */,
+				451825C61D76D32800552498 /* MasterSwift.xcodeproj */,
+				4518257B1D76D31600552498 /* PageSwift.xcodeproj */,
+				451825311D76D30300552498 /* SingleSwift.xcodeproj */,
 				451824C31D76D2F300552498 /* TabSwift */,
 				451824DA1D76D2F300552498 /* TabSwiftTests */,
 				451824E51D76D2F300552498 /* TabSwiftUITests */,
@@ -126,6 +227,54 @@
 				451824E81D76D2F300552498 /* Info.plist */,
 			);
 			path = TabSwiftUITests;
+			sourceTree = "<group>";
+		};
+		451825321D76D30300552498 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				451825381D76D30500552498 /* SingleSwift.app */,
+				4518253A1D76D30500552498 /* SingleSwiftTests.xctest */,
+				4518253C1D76D30500552498 /* SingleSwiftUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4518257C1D76D31600552498 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				451825821D76D31700552498 /* PageSwift.app */,
+				451825841D76D31700552498 /* PageSwiftTests.xctest */,
+				451825861D76D31700552498 /* PageSwiftUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		451825C71D76D32800552498 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				451825CD1D76D32900552498 /* MasterSwift.app */,
+				451825CF1D76D32900552498 /* MasterSwiftTests.xctest */,
+				451825D11D76D32900552498 /* MasterSwiftUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		451826111D76D34D00552498 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				451826171D76D34E00552498 /* SpriteSwift.app */,
+				451826191D76D34E00552498 /* SpriteSwiftTests.xctest */,
+				4518261B1D76D34E00552498 /* SpriteSwiftUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		451826321D76D36F00552498 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				451826361D76D37000552498 /* Commons.framework */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -218,6 +367,28 @@
 			mainGroup = 451824B81D76D2F300552498;
 			productRefGroup = 451824C21D76D2F300552498 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 451826321D76D36F00552498 /* Products */;
+					ProjectRef = 451826311D76D36F00552498 /* Commons.xcodeproj */;
+				},
+				{
+					ProductGroup = 451825C71D76D32800552498 /* Products */;
+					ProjectRef = 451825C61D76D32800552498 /* MasterSwift.xcodeproj */;
+				},
+				{
+					ProductGroup = 4518257C1D76D31600552498 /* Products */;
+					ProjectRef = 4518257B1D76D31600552498 /* PageSwift.xcodeproj */;
+				},
+				{
+					ProductGroup = 451825321D76D30300552498 /* Products */;
+					ProjectRef = 451825311D76D30300552498 /* SingleSwift.xcodeproj */;
+				},
+				{
+					ProductGroup = 451826111D76D34D00552498 /* Products */;
+					ProjectRef = 451826101D76D34D00552498 /* SpriteSwift.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				451824C01D76D2F300552498 /* TabSwift */,
@@ -226,6 +397,100 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		451825381D76D30500552498 /* SingleSwift.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = SingleSwift.app;
+			remoteRef = 451825371D76D30500552498 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		4518253A1D76D30500552498 /* SingleSwiftTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = SingleSwiftTests.xctest;
+			remoteRef = 451825391D76D30500552498 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		4518253C1D76D30500552498 /* SingleSwiftUITests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = SingleSwiftUITests.xctest;
+			remoteRef = 4518253B1D76D30500552498 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		451825821D76D31700552498 /* PageSwift.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = PageSwift.app;
+			remoteRef = 451825811D76D31700552498 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		451825841D76D31700552498 /* PageSwiftTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = PageSwiftTests.xctest;
+			remoteRef = 451825831D76D31700552498 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		451825861D76D31700552498 /* PageSwiftUITests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = PageSwiftUITests.xctest;
+			remoteRef = 451825851D76D31700552498 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		451825CD1D76D32900552498 /* MasterSwift.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = MasterSwift.app;
+			remoteRef = 451825CC1D76D32900552498 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		451825CF1D76D32900552498 /* MasterSwiftTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = MasterSwiftTests.xctest;
+			remoteRef = 451825CE1D76D32900552498 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		451825D11D76D32900552498 /* MasterSwiftUITests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = MasterSwiftUITests.xctest;
+			remoteRef = 451825D01D76D32900552498 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		451826171D76D34E00552498 /* SpriteSwift.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = SpriteSwift.app;
+			remoteRef = 451826161D76D34E00552498 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		451826191D76D34E00552498 /* SpriteSwiftTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = SpriteSwiftTests.xctest;
+			remoteRef = 451826181D76D34E00552498 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		4518261B1D76D34E00552498 /* SpriteSwiftUITests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = SpriteSwiftUITests.xctest;
+			remoteRef = 4518261A1D76D34E00552498 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		451826361D76D37000552498 /* Commons.framework */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.framework;
+			path = Commons.framework;
+			remoteRef = 451826351D76D37000552498 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		451824BF1D76D2F300552498 /* Resources */ = {

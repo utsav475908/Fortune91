@@ -15,6 +15,7 @@
 		4518250E1D76D30300552498 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4518250C1D76D30300552498 /* LaunchScreen.storyboard */; };
 		451825191D76D30300552498 /* SingleSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 451825181D76D30300552498 /* SingleSwiftTests.swift */; };
 		451825241D76D30300552498 /* SingleSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 451825231D76D30300552498 /* SingleSwiftUITests.swift */; };
+		451826DE1D770E4400552498 /* SampleCollectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 451826DD1D770E4400552498 /* SampleCollectionVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4518251F1D76D30300552498 /* SingleSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SingleSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		451825231D76D30300552498 /* SingleSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleSwiftUITests.swift; sourceTree = "<group>"; };
 		451825251D76D30300552498 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		451826DD1D770E4400552498 /* SampleCollectionVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SampleCollectionVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				4518250C1D76D30300552498 /* LaunchScreen.storyboard */,
 				4518250F1D76D30300552498 /* Info.plist */,
 				451825071D76D30300552498 /* SingleSwift.xcdatamodeld */,
+				451826DD1D770E4400552498 /* SampleCollectionVC.swift */,
 			);
 			path = SingleSwift;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				451825031D76D30300552498 /* ViewController.swift in Sources */,
 				451825091D76D30300552498 /* SingleSwift.xcdatamodeld in Sources */,
+				451826DE1D770E4400552498 /* SampleCollectionVC.swift in Sources */,
 				451825011D76D30300552498 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

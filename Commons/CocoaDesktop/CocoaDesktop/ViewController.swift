@@ -19,6 +19,12 @@ class ViewController: NSViewController {
     override var representedObject: AnyObject? {
         didSet {
         // Update the view, if already loaded.
+            @IBAction func willDoSomething(sender: UIButton) {
+            }
+            @IBAction func didSomething(sender: UIButton) {
+            }
+            @IBAction func doSomething(sender: UIButton) {
+            }
         }
     }
 

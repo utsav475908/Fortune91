@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model name="Test1.xcdatamodel" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
-    <elements/>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="15E65" minimumToolsVersion="Automatic">
+    <entity name="Home" syncable="YES">
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="work" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="lives" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="People" inverseName="live" inverseEntity="People" syncable="YES"/>
+    </entity>
+    <entity name="People" syncable="YES">
+        <attribute name="age" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="live" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Home" inverseName="lives" inverseEntity="Home" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Home" positionX="-63" positionY="-18" width="128" height="88"/>
+        <element name="People" positionX="-243" positionY="108" width="128" height="88"/>
+    </elements>
 </model>
